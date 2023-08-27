@@ -1019,6 +1019,43 @@ Spring Boot
                                         <div class="gallery-block all mix mobile-app ui-design web-design col-lg-4 col-md-6 col-sm-12">
                                             <div class="inner-box">
                                                 <figure class="image-box">
+                                                    <img src="img/africon.png" alt="">
+                                                    <!-- Overlay Box -->
+                                                    <div class="overlay-box">
+                                                        <div class="overlay-inner">
+                                                            <div class="content">
+                                                                <a href="img/africon.png" data-fancybox="gallery-1" data-caption="" class="link"><span class="icon flaticon-full-screen"></span></a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </figure>
+                                                <div class="lower-content">
+                                                    <div class="designation">Afrcon Engineering Website</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-block all mix mobile-app ui-design web-design col-lg-4 col-md-6 col-sm-12">
+                                            <div class="inner-box">
+                                                <figure class="image-box">
+                                                    <img src="img/eac.png" alt="">
+                                                    <!-- Overlay Box -->
+                                                    <div class="overlay-box">
+                                                        <div class="overlay-inner">
+                                                            <div class="content">
+                                                                <a href="img/eac.png" data-fancybox="gallery-1" data-caption="" class="link"><span class="icon flaticon-full-screen"></span></a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </figure>
+                                                <div class="lower-content">
+                                                    <div class="designation">KEBS Proficiency Testing Web app</div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="gallery-block all mix mobile-app logo-design col-lg-4 col-md-6 col-sm-12">
+                                            <div class="inner-box">
+                                                <figure class="image-box">
                                                     <img src="img/customer.png" alt="">
                                                     <!-- Overlay Box -->
                                                     <div class="overlay-box">
@@ -1030,7 +1067,7 @@ Spring Boot
                                                     </div>
                                                 </figure>
                                                 <div class="lower-content">
-                                                    <div class="designation">A customer management system</div>
+                                                    <div class="designation">A simple customer management System</div>
                                                 </div>
                                             </div>
                                         </div>
